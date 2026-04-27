@@ -1,0 +1,85 @@
+Política de Privacidad — AdManager App
+Última actualización: 27 de abril de 2026 · Versión 1.0
+
+01. Quiénes somos
+AdManager App es una herramienta de gestión y análisis de campañas publicitarias a través de Meta Ads (Facebook e Instagram Ads). Esta política describe cómo recopilamos, usamos y protegemos los datos generados en el contexto del uso de nuestra plataforma.
+Al utilizar la Aplicación, aceptas los términos descritos en este documento. Si no estás de acuerdo, te rogamos que no hagas uso de nuestros servicios.
+
+02. Datos que recopilamos
+La Aplicación únicamente accede a datos relacionados con la actividad publicitaria gestionada a través de Meta Ads:
+
+Rendimiento de anuncios: impresiones, clics, alcance, frecuencia, CTR, CPM, CPC, ROAS. Origen: Meta Ads API.
+Datos de campañas: nombres, presupuestos, fechas, objetivos y estado. Origen: Meta Ads API.
+Información de cuenta: ID de cuenta publicitaria, nombre, moneda y zona horaria. Origen: Meta Ads API.
+Datos de audiencias: segmentaciones configuradas en Meta (demográficos, intereses, ubicaciones). No incluyen datos personales de usuarios finales.
+Credenciales de acceso: token OAuth de Meta, cifrado en reposo.
+
+
+Importante: No recopilamos datos personales de los usuarios finales de tus anuncios. Solo trabajamos con métricas agregadas proporcionadas por Meta.
+
+
+03. Cómo usamos los datos
+Los datos recopilados se usan exclusivamente para:
+
+Mostrar el rendimiento de tus campañas dentro del panel de la Aplicación.
+Generar informes, gráficas y comparativas de métricas publicitarias.
+Permitir la gestión de campañas (pausar, activar, ajustar presupuesto) desde la interfaz.
+Enviar alertas configuradas por el usuario (presupuesto agotado, caída de rendimiento, etc.).
+Mejorar el funcionamiento interno mediante análisis técnicos anónimos.
+
+No vendemos, alquilamos ni cedemos tus datos a terceros para fines comerciales o publicitarios propios.
+
+04. Meta Ads y terceros
+La Aplicación accede a la información de tus cuentas publicitarias a través de la API oficial de Meta for Developers, respetando en todo momento sus Términos de Servicio y Política de Datos.
+Al conectar tu cuenta, otorgas permisos de acceso (scopes) a través de OAuth. Puedes revocarlos en cualquier momento desde: Configuración de Meta → Seguridad e inicio de sesión → Aplicaciones y sitios web.
+Permisos solicitados: ads_read y ads_management (solo si el usuario activa funciones de edición). No se solicitan permisos sobre publicaciones personales, mensajes ni contactos.
+La Aplicación puede integrar servicios técnicos de terceros (infraestructura cloud, monitorización de errores) que actúan como encargados del tratamiento bajo acuerdos de confidencialidad.
+
+05. Base legal del tratamiento
+El tratamiento se realiza conforme al RGPD sobre las siguientes bases:
+
+Ejecución de contrato (art. 6.1.b RGPD): necesario para prestarte el servicio contratado.
+Interés legítimo (art. 6.1.f RGPD): para mejorar la estabilidad y seguridad de la Aplicación.
+Consentimiento (art. 6.1.a RGPD): para comunicaciones opcionales como boletines o novedades.
+
+
+06. Conservación de datos
+
+Datos de rendimiento: se conservan mientras la cuenta esté activa, más 90 días tras la baja para permitir exportar informes históricos.
+Tokens OAuth: se invalidan de forma inmediata al desconectar la cuenta de Meta o cancelar la suscripción.
+Registros técnicos (logs): conservados un máximo de 12 meses.
+
+
+07. Tus derechos
+Como usuario puedes ejercer en cualquier momento los siguientes derechos reconocidos por el RGPD:
+
+Acceso: conocer qué datos tratamos sobre ti.
+Rectificación: corregir datos inexactos o incompletos.
+Supresión: solicitar la eliminación cuando ya no sean necesarios.
+Limitación: suspender el uso de tus datos en determinadas circunstancias.
+Portabilidad: recibir tus datos en formato estructurado y legible por máquina.
+Oposición: oponerte al tratamiento basado en interés legítimo.
+Retirada del consentimiento: en cualquier momento, sin efectos retroactivos.
+
+Responderemos en un plazo máximo de 30 días. También puedes reclamar ante la Agencia Española de Protección de Datos (AEPD) en www.aepd.es.
+
+08. Seguridad
+Aplicamos las siguientes medidas técnicas y organizativas:
+
+Cifrado en tránsito mediante TLS 1.2 o superior.
+Cifrado en reposo para tokens de acceso y datos sensibles.
+Control de acceso por roles y principio de mínimo privilegio.
+Auditorías de seguridad periódicas y monitorización de incidentes.
+Copias de seguridad regulares con cifrado.
+
+En caso de brecha de seguridad, te notificaremos en un máximo de 72 horas desde su detección.
+
+09. Menores de edad
+La Aplicación está diseñada exclusivamente para profesionales del marketing y gestores de cuentas publicitarias. No está dirigida a menores de 18 años. Si detectamos que un menor ha proporcionado datos de forma involuntaria, los eliminaremos de inmediato.
+
+10. Contacto
+AdManager App — Responsable del tratamiento
+Correo: privacidad@admanagerapp.com
+Nos reservamos el derecho a actualizar esta política para adaptarla a cambios legislativos o en el servicio. Cualquier cambio sustancial será comunicado con al menos 15 días de antelación.
+
+Conforme al RGPD (UE) 2016/679 y la LOPDGDD (España)
